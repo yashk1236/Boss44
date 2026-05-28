@@ -16,5 +16,11 @@
         "key": "surend1",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0654d72191817b32",
+        "key": "JKQRTYO",
+        "expirydate": "28-06-2026",
+        "Allowoffline": false
     }
 ]
